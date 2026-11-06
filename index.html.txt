@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shashlik Tayyorlash Oyini</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #2c1e12; color: #fff; text-align: center; margin: 0; padding: 20px; }
+        h1 { color: #f39c12; }
+        .game-box { background: #3e2723; padding: 30px; border-radius: 10px; max-width: 500px; margin: 50px auto; box-shadow: 0 4px 10px rgba(0,0,0,0.5); }
+        button { background: #e67e22; color: white; border: none; padding: 12px 25px; font-size: 18px; border-radius: 5px; cursor: pointer; margin-top: 20px; }
+        button:hover { background: #d35400; }
+    </style>
+</head>
+<body>
+    <div class="game-box">
+        <h1>Shashlik Tayyorlash Ustasi 🍢</h1>
+        <p>Xush kelibsiz! Marhamat, o'yinni boshlang va mazali shashliklar pishiring.</p>
+        <button onclick="alert('O\'yin boshlandi! Go\'shtni mangalga qo\'ying va maromida pishiring.')">O'yinni Boshlash</button>
+    </div>
+</body>
+</html>
